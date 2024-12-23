@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\migrations\\tabudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\tabudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\migrations\\20241223194046_othertables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20241223194046_othertables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\migrations\\20241220073257_seeddatasforlanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20241220073257_seeddatasforlanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\exceptions\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\exceptions\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\dto\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\dto\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\dto\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\dto\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Entities\\Word.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Entities\\Word.cs",
+              "RelativeToolTip": "Crud_Api\\Entities\\Word.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:49:01.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Entities\\Game.cs",
+              "RelativeToolTip": "Crud_Api\\Entities\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:59.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BannedWord.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Entities\\BannedWord.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Entities\\BannedWord.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Entities\\BannedWord.cs",
+              "RelativeToolTip": "Crud_Api\\Entities\\BannedWord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TabuDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Migrations\\TabuDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\TabuDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Migrations\\TabuDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Crud_Api\\Migrations\\TabuDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:56.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241223194046_OtherTables.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Migrations\\20241223194046_OtherTables.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20241223194046_OtherTables.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Migrations\\20241223194046_OtherTables.cs",
+              "RelativeToolTip": "Crud_Api\\Migrations\\20241223194046_OtherTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241220073257_SeedDatasForLanguages.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Migrations\\20241220073257_SeedDatasForLanguages.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20241220073257_SeedDatasForLanguages.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Migrations\\20241220073257_SeedDatasForLanguages.cs",
+              "RelativeToolTip": "Crud_Api\\Migrations\\20241220073257_SeedDatasForLanguages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageExistException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Exceptions\\LanguageExistException.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Exceptions\\LanguageExistException.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Exceptions\\LanguageExistException.cs",
+              "RelativeToolTip": "Crud_Api\\Exceptions\\LanguageExistException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:51.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Exceptions\\IBaseException.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Exceptions\\IBaseException.cs",
+              "RelativeToolTip": "Crud_Api\\Exceptions\\IBaseException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanguageUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Languages\\LanguageUpdateDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\DTO\\Languages\\LanguageUpdateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Languages\\LanguageUpdateDto.cs",
+              "RelativeToolTip": "Crud_Api\\DTO\\Languages\\LanguageUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LanguageCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Languages\\LanguageCreateDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\DTO\\Languages\\LanguageCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Languages\\LanguageCreateDto.cs",
+              "RelativeToolTip": "Crud_Api\\DTO\\Languages\\LanguageCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:46.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LanguageCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "RelativeToolTip": "Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:48:40.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
