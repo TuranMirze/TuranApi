@@ -10,6 +10,8 @@ namespace Crud_Api.DAL
 
         }
         public DbSet<Language> Languages { get; set; }
+        public DbSet<Game> Games { get; set; }
+        public DbSet<Word> Words { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -48,10 +50,10 @@ namespace Crud_Api.DAL
                 .HasForeignKey(x => x.WordId);
             });
 
-            modelBuilder.Entity<Word>(b =>
+            modelBuilder.Entity<Game>(b =>
             {               
                 b.HasOne(x => x.Language)
-                    .WithMany(x => x.Words)
+                    .WithMany(x => x.Games)
                     .HasForeignKey(x => x.LangCode);
             });
 

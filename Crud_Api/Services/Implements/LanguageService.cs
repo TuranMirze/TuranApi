@@ -22,8 +22,8 @@ namespace Crud_Api.Services.Implements
 
         public async Task<IEnumerable<LanguageGetDto>> GetAllAsycn()
         {
-            var datas = await _context.Languages.ToListAsync();
-            return _mapper.Map<IEnumerable<LanguageGetDto>>(datas);
+            var context = await _context.Languages.ToListAsync();
+            return _mapper.Map<IEnumerable<LanguageGetDto>>(context);
         }
 
         public async Task UpdateAsync(LanguageUpdateDto dto)
@@ -35,8 +35,6 @@ namespace Crud_Api.Services.Implements
                 _dto.Code = dto.Code;
                 _dto.Icon = dto.Icon;
             }
-
-
             await _context.SaveChangesAsync();
         }
 
@@ -46,8 +44,8 @@ namespace Crud_Api.Services.Implements
             if (context != null)
             {
                 _context.Languages.Remove(context);
-                await _context.SaveChangesAsync();
             }
+            await _context.SaveChangesAsync();
 
         }
 

@@ -27,7 +27,7 @@ namespace Crud_Api
             //{
             //    x.RegisterValidatorsFromAssemblyContaining<Program>();
             //});
-
+            builder.Services.AddMemoryCache();
             builder.Services.AddScoped<ILanguageServices,LanguageService>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
