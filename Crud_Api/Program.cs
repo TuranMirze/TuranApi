@@ -1,10 +1,13 @@
 
 using Crud_Api.DAL;
 using Crud_Api.Entities;
+using Crud_Api.Exceptions;
 using Crud_Api.Services.Abstracts;
 using Crud_Api.Services.Implements;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Diagnostics;
+using Microsoft.AspNetCore.Http.Features;
 using Microsoft.EntityFrameworkCore;
 
 namespace Crud_Api
@@ -22,13 +25,13 @@ namespace Crud_Api
                 builder.Configuration.GetConnectionString("MSSql")));
             builder.Services.AddFluentValidationAutoValidation();
             builder.Services.AddValidatorsFromAssemblyContaining<Program>();
-
+            builder.Services.AddServices();
             //builder.Services.AddFluentValidation(x =>
             //{
             //    x.RegisterValidatorsFromAssemblyContaining<Program>();
             //});
             builder.Services.AddMemoryCache();
-            builder.Services.AddScoped<ILanguageServices,LanguageService>();
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -41,9 +44,13 @@ namespace Crud_Api
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            else
+            {
+                app.UseTabuExceptionHandler();
+
+            }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
 
 

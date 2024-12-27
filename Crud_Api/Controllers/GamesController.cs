@@ -1,28 +1,34 @@
-﻿using AutoMapper;
+﻿//using AutoMapper;
+using AutoMapper;
 using Crud_Api.DTO.Games;
 using Crud_Api.Services.Abstracts;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Crud_Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class GamesController(IGameService _service, IMapper _mapper) : ControllerBase
+    public class GamesController(IGameService _service, IMapper _mapper, IMemoryCache _cache) : ControllerBase
     {
-        [HttpGet]
-        public async Task<IActionResult> Get()
-        {
-            var context = await _service.GetAllAsync();
-            var result = _mapper.Map<IEnumerable<GamesCreateDto>>(context);
-            return Ok(result);
-        }
+        
+
+       
+
         [HttpPost]
         public async Task<IActionResult> Create(GamesCreateDto dto)
         {
-            var context = _mapper.Map<GamesCreateDto>(dto);
-            await _service.CreateAsync(context);
-            return Ok(context);
+            //var context = _mapper.Map<GamesCreateDto>(dto);
+          
+           
+            return Ok(await _service.CreateAsync(dto));
+            //return Ok(await _service.CreateAsync(dto));
+        }
+        [HttpGet]
+        public async Task<IActionResult> Start(Guid id)
+        {
+            return Ok();
         }
 
         [HttpPut]

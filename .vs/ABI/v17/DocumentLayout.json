@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\validators\\games\\gamescreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\validators\\games\\gamescreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\dto\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\dto\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\new folder (3)\\crud_api\\dto\\games\\gamescreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEBFFA8-C5A3-4A49-B9B6-7E368E3673F7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\dto\\games\\gamescreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,105 +49,126 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameProfile.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Profiles\\GameProfile.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Profiles\\GameProfile.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Profiles\\GameProfile.cs",
-              "RelativeToolTip": "Crud_Api\\Profiles\\GameProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "GamesCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Games\\GamesCreateDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\DTO\\Games\\GamesCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Games\\GamesCreateDto.cs",
+              "RelativeToolTip": "Crud_Api\\DTO\\Games\\GamesCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:40:55.2Z",
+              "WhenOpened": "2024-12-27T09:27:36.605Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WordProfile.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Profiles\\WordProfile.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Profiles\\WordProfile.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Profiles\\WordProfile.cs",
-              "RelativeToolTip": "Crud_Api\\Profiles\\WordProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "WordCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeToolTip": "Crud_Api\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:40:35.032Z"
+              "WhenOpened": "2024-12-27T09:56:16.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TabuDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DAL\\TabuDbContext.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\DAL\\TabuDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DAL\\TabuDbContext.cs",
-              "RelativeToolTip": "Crud_Api\\DAL\\TabuDbContext.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Title": "GamesCreateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Games\\GamesCreateValidator.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Validators\\Games\\GamesCreateValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Games\\GamesCreateValidator.cs",
+              "RelativeToolTip": "Crud_Api\\Validators\\Games\\GamesCreateValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:28:47.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BannedWordsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Controllers\\BannedWordsController.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Controllers\\BannedWordsController.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Controllers\\BannedWordsController.cs",
-              "RelativeToolTip": "Crud_Api\\Controllers\\BannedWordsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:17:21.585Z"
+              "WhenOpened": "2024-12-27T09:56:06.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GameStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Games\\GameStatusDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\DTO\\Games\\GameStatusDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\DTO\\Games\\GameStatusDto.cs",
+              "RelativeToolTip": "Crud_Api\\DTO\\Games\\GameStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:48:58.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GamesController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Controllers\\GamesController.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Controllers\\GamesController.cs",
               "RelativeToolTip": "Crud_Api\\Controllers\\GamesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:16:47.005Z"
+              "WhenOpened": "2024-12-27T09:36:36.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Program.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Program.cs",
-              "RelativeToolTip": "Crud_Api\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAmAAAA",
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Abstracts\\IGameService.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Services\\Abstracts\\IGameService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Abstracts\\IGameService.cs",
+              "RelativeToolTip": "Crud_Api\\Services\\Abstracts\\IGameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:47:56.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IWordService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Abstracts\\IWordService.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Services\\Abstracts\\IWordService.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Abstracts\\IWordService.cs",
-              "RelativeToolTip": "Crud_Api\\Services\\Abstracts\\IWordService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:44:43.851Z"
+              "WhenOpened": "2024-12-27T09:33:59.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "WordService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Implements\\WordService.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Services\\Implements\\WordService.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Implements\\WordService.cs",
-              "RelativeToolTip": "Crud_Api\\Services\\Implements\\WordService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "LanguageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Profiles\\LanguageProfile.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Profiles\\LanguageProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Profiles\\LanguageProfile.cs",
+              "RelativeToolTip": "Crud_Api\\Profiles\\LanguageProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T10:41:58.633Z"
+              "WhenOpened": "2024-12-27T09:30:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguageCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "RelativeToolTip": "Crud_Api\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:29:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Implements\\GameService.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Services\\Implements\\GameService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\Crud_Api\\Services\\Implements\\GameService.cs",
+              "RelativeToolTip": "Crud_Api\\Services\\Implements\\GameService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:20:41.725Z",
+              "EditorCaption": ""
             }
           ]
         }

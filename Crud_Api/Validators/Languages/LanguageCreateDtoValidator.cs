@@ -21,7 +21,7 @@ namespace Crud_Api.Validators.Languages
 
             RuleFor(x => x.IconUrl)
                 .MaximumLength(128)
-                .Matches("^http(s)?://([\\w-]+.)+[\\w-]+(/[\\w- ./?%&=])?$\r\n")
+                .Matches("^http(s)?://([\\w-]+.)+[\\w-]+(/[\\w- ./?%&=])?$")
                 .WithMessage("Url Link Olmalidir");
 
 

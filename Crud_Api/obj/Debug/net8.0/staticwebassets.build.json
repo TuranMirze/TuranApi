@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "tny4jj4vJqItLQkbs1WXCRIEe3vdPd5sMEbweW31jMk=",
-  "Source": "ABI",
-  "BasePath": "_content/ABI",
+  "Hash": "hMHraxUghQnnz+Jl8h0192GdX6W/xHLFO/E9cs8RFR4=",
+  "Source": "Crud_Api",
+  "BasePath": "_content/Crud_Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

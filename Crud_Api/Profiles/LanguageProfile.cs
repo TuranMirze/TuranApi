@@ -10,8 +10,8 @@ namespace Crud_Api.Profiles
         {
             CreateMap<LanguageCreateDto, Language>()
                 .ForMember(l => l.Icon, lcd => lcd.MapFrom(x=>x.IconUrl));
-            CreateMap<LanguageGetDto,Language>()
-                .ForMember(l => l.Icon, lcd => lcd.MapFrom(x => x.Icon));
+            CreateMap<Language, LanguageGetDto>();
+                
             CreateMap<LanguageUpdateDto,Language>().ReverseMap();
 
         }
